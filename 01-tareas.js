@@ -18,5 +18,3 @@ for(let i = 0; i < años; i++){
 console.log("El nuevo sueldo en " + años + " año (s) es de: " + salario)
 console.log(salarios)
 
-// Ejercicio 4.2
-//
